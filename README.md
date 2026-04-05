@@ -106,8 +106,8 @@ finance-system/
 ### 1️⃣ Clone Repository
 
 ```bash id="5m7u9g"
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/Ankita00400/finance-system-backend.git
+cd finance-system-backend
 ```
 
 ### 2️⃣ Create Virtual Environment
